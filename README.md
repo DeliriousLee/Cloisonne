@@ -4,7 +4,7 @@ xcode 配色方案 命名为景泰蓝，主要配色为金色和蓝色为主
 # Chrome
 xcode 配色方案 命名为chrome，主要配色为chrome的经典色，即红色，蓝色，黄色，白色
 dark主题
-
+![avatar](https://github.com/DeliriousLee/XcodeColorTheme/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-01-16%20%E4%B8%8B%E5%8D%885.28.57.png?raw=true)
 ### 使用方式
 > 用于Xcode
 
